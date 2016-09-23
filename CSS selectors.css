@@ -1,0 +1,98 @@
+div div div h3{
+    color: red;
+}
+
+*{
+    border: 1px dashed #3a5fcd;
+}
+
+/*Add your CSS below!*/
+p{
+    color: #00e5ee;
+}
+div p{
+    color: #cc0000;
+}
+*{
+    border: 2px solid #3a5fcd;
+}
+
+/*Add your CSS below!*/
+li a {
+    text-decoration: none;
+    font-family: cursive;
+}
+
+/*Add your CSS below!*/
+p{
+    font-family: Garamond;
+}
+div > p{
+    font-weight: bold;
+    color: #7ac5cd;
+}
+body > p{
+     font-weight: bold;
+}
+
+div ul li p{
+    color: #000000;
+    text-decoration: underline;
+}        
+   
+.fancy{
+    font-family: cursive;
+    color: #0000cd;
+}
+#serious{
+    font-family: Courier;
+    color: #cc0000;
+}
+#intro{
+    color: #b83c3a;
+}
+.standout{
+    color: #f7ac5f;
+    font-family: Verdana;
+}
+
+a:link{
+    text-decoration: none;
+    color: #008B45;
+}
+a:hover{
+    color: #00ff00;
+}
+a:visited{
+    color: #ee9a00;
+}
+
+p:first-child{
+    font-family: cursive;
+}
+
+p:first-child{
+    font-family: cursive;
+}
+p:nth-child(2) {
+    font-family: Tahoma;
+}
+p:nth-child(3) {
+    color: #cc0000;
+}
+p:nth-child(4) {
+    background-color: #00FF00;
+}
+p:nth-child(5) {
+    font-size: 22px;
+} 
+
+a:hover{
+    text-decoration: none;
+}
+a:first-child{
+    color: #cdbe70;
+}
+a:nth-child(3){
+    color: #ffc125;
+}

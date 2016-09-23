@@ -1,0 +1,51 @@
+/*Add your CSS below!*/
+div{
+    background-color:#cc0000;
+    height: 100px;
+    width: 100px;
+}
+
+td{
+    border: 1px dashed blue;
+}
+table{
+    border: 1px solid black;
+}
+
+a{
+    color:#cc0000;
+    text-decoration: none;
+}
+
+<!DOCTYPE html>
+<html>
+	<head>
+	   <link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<title>Result</title>
+	</head>
+	<body>
+	   <h1>Our apartment</h1>
+	   <p> It is a 1 bedroom and 1 bathroom apartment.</p>
+	   <a href="www.cheyennecrossing.com">Apartment information</a>
+	   <img src="https://pp.walk.sc/full/p/134665647/1d1031.jpg">
+	</body>
+</html>
+
+h1{
+    font-family: Verdana, Sans-serif;
+    color: #576D94;
+}
+p{
+    font-size: 18px;
+    color: #4a4943;
+    font-family: Garamond, serif;
+}
+img{
+    height: 100px;
+    width: 300px;
+    border: 1px solid #4682b4;
+}
+a{
+    text-decoration: none;
+    color: #cc0000;
+}

@@ -1,0 +1,79 @@
+p {
+	color: red;
+}
+
+span {
+	color: blue;/*Write your CSS here!*/
+}
+
+p {
+    font-size: 100px;
+}
+
+span {
+	font-family:cursive;/*Add your CSS here!*/
+}
+
+p  {
+    color: green;
+    font-family: Garamond;
+    font-size: 24px;
+}
+
+/*You can do this! Write your CSS below.*/
+h3{
+    color:red;
+}
+
+p{
+    font-family:Courier;    
+}
+
+span{
+    background-color:yellow;
+}
+
+h1{
+    font-family: Verdana;
+}
+
+h3{
+    font-family:Courier;
+}
+
+p{
+    color:purple;
+}
+/* This is my favorite color. */
+
+h3 {
+	/*Add your CSS hex color here!*/
+	color:#cc6666;
+}
+
+h2 {
+	/*Add your CSS hex color here!*/
+	color:#8a2be2;
+}
+
+/*Add your CSS below!*/
+h1{
+    font-family:Serif;
+}
+h2{
+    font-family:Sans-serif;
+}
+h3{
+    font-family:Cursive;
+}
+
+<!DOCTYPE html>
+<html>
+	<head>
+	    <link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<title>Result</title>
+	</head>
+	<body>
+		<p>I want to be SIZE 44 font!</p>
+	</body>
+</html>
